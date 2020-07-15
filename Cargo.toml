@@ -1,5 +1,5 @@
 [package]
-name = "scratch"
+name = "rusty-forest"
 version = "0.1.0"
 authors = ["Billy Vreeland <billy.vreeland@gmail.com>"]
 edition = "2018"
