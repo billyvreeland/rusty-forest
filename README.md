@@ -4,9 +4,16 @@ This is a first pass at teaching myself some Rust by implementing a random fores
 
 I'm just getting this rolling, much more to follow shortly.
 
+To run what is here so far:
 
+```
+git clone https://github.com/billyvreeland/rusty-forest.git
+cd rusty-forest
+cargo build
+cargo run  # or ./target/debug/rusty-forest
+```
 
-
+It will run *much* faster if you build with the --release option and then execute ./target/release/rusty-forest
 
 
 
