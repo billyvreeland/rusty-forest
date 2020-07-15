@@ -1,9 +1,14 @@
 [package]
-name = "rusty-forest"
+name = "scratch"
 version = "0.1.0"
-authors = ["Billy Vreeland <billyvreeland@gmail.com>"]
+authors = ["Billy Vreeland <billy.vreeland@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+csv = "1.1"
+log = "0.4.8"
+ndarray = "0.13.0"
+ndarray-csv = "0.4.1"
+rand = "0.7.3"
