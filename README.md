@@ -13,7 +13,7 @@ cargo build
 cargo run  # or ./target/debug/rusty-forest
 ```
 
-It will run *much* faster if you build with the --release option and then execute ./target/release/rusty-forest
+It will run *much* faster if you build with the `--release` option (e.g. `cargo build --releasee`) and then execute `./target/release/rusty-forest`.
 
 
 
